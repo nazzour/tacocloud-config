@@ -1,8 +1,7 @@
-greeting:
-  message: Hello World!
 server:
   port: 0
-
+greeting:
+  message: Hello World!
 eureka:
   client:
     service-url:
