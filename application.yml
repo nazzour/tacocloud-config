@@ -1,3 +1,5 @@
+greeting:
+  message: Hello World!
 server:
   port: 0
 
